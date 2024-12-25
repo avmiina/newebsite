@@ -1,0 +1,618 @@
+  /* body{  
+    background-color: #f0f0f0;
+}
+
+ 
+.logo img{
+    width: 45px;
+    height: 45px;
+    object-fit: cover;
+    margin-right: 20px;
+}
+ 
+.menu p{
+    font-family: "Comic Neue", cursive;
+    color: #151515;
+    padding-left: 40px;
+    
+}  */
+
+.header{
+    display: flex;
+    justify-content: space-between;
+
+}
+.menu{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+    margin-left: 200px;
+}
+
+.menutwo{
+    margin-top: 25px;
+    margin-right: 200px;
+}
+.menutwo button{
+    padding: 14px; 
+    border: none;
+    font-family: "Comic Neue", cursive;
+    font-weight: 700;
+    font-size: 18px;
+}
+.menutwo .login{
+    margin-right: 15px;font-weight: 400;
+    font-size: 18px;
+    background-color: #fff;
+    font-weight: 700;
+    
+}
+.menutwo .signup{
+    background-color: black;
+    color: white;
+    margin-left: 10px;
+    
+}
+/* menu hisse finish */
+.img img{
+    width: 350px;
+    height: 300px;
+    margin-right: 180px;
+}
+
+.center{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100px;
+}
+
+.bigtext p{
+   font-size: 40px;
+   width: 400px;
+   font-family: "Comic Neue", cursive;
+   margin-bottom: 20px;
+}
+
+.littletext p{
+    font-size: 12px;
+    font-family: "Comic Neue", cursive;
+    width: 320px;
+    margin-bottom: 30px;
+}
+
+.text{
+    margin-left: 200px;
+}
+
+.buttonlar .email{
+    width: 220px;
+    padding: 10px;
+    text-align: left;
+    font-family: "Comic Neue", cursive;
+    font: 17px;
+    background-color: white;
+    border: none;
+    font-weight: 500;
+    position: absolute;
+}
+
+.buttonlar .get{
+    font-family: "Comic Neue", cursive;
+    font: 17px;
+    background-color: black;
+    border: none;
+    font-weight: 500;
+    color: white;
+    width: 100px;
+    padding: 10px;
+    position: relative;
+    margin-left: 220px;
+}
+
+.buttonlar{
+    margin-bottom: 50px;
+}
+
+.icons{
+    font-size: 30px;
+}
+
+.icons i{
+    margin-left: 20px;
+}
+
+/* center finish */
+
+/* ikinci hisse start */
+
+.imgsecond img{
+    width: 350px;
+    height: 300px;
+    margin-left: 180px;
+}
+
+.second{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 200px;
+}
+
+.textsecond{
+    margin-left: 100px;
+}
+
+.abouttwo button{
+    margin-bottom: 30px;
+    background-color: #f0f0f0;
+    font-family: "Comic Neue", cursive;
+    font-size: 17px;
+    padding: 5px;
+    font-weight: bold;
+    width: 100px;
+}
+
+.faster p{
+    font-size: 40px;
+   width: 500px;
+   font-family: "Comic Neue", cursive;
+   margin-bottom: 20px;
+}
+
+.add p{
+    font-size: 12px;
+    font-family: "Comic Neue", cursive;
+    width: 400px;
+    margin-bottom: 30px;   
+    line-height: 18px;
+}
+
+ul li{
+    font-size: 12px;
+    font-family: "Comic Neue", cursive;
+    width: 400px;
+    line-height: 30px;
+}
+/* ikinci hisse finish */
+/* ucuncu hisse start */
+
+.third{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100px;
+}
+
+.textthird{
+    margin-left: 200px;
+}
+
+.how button{
+    margin-bottom: 40px;
+    background-color: #f0f0f0;
+    font-family: "Comic Neue", cursive;
+    font-size: 12px;
+    padding: 5px;
+    font-weight: bold;
+    width: 100px;
+}
+
+.thirdicon img{
+ width: 50px;
+ height: 50px;
+ display: flex;
+ flex-direction: column;
+ padding-bottom: 30px;
+ margin-right: 30px;
+ margin-bottom: 8px;
+
+}
+.icontext{
+    display: flex;
+    flex-direction: row;
+}
+
+.textthird h1{
+   font-family: "Comic Neue", cursive;
+   line-height: 40px;
+   font-weight: 500;
+}
+
+.textthird p{
+   font-family: "Comic Neue", cursive;
+   font-size: 8px;
+   width: 240px;
+   line-height: 15px;
+}
+.cumle h2 {
+    font-size: 40px;
+    width: 450px;
+    font-family: "Comic Neue", cursive;
+    font-weight: 500;
+    margin-bottom: 30px;
+}
+.thirdimg img{
+    width: 330px;
+    height: 450px;
+    margin-right: 180px;
+    margin-top: 60px;
+}
+/* third finish */
+/* fourth start */
+
+.fourthimg img{
+    width: 280px;
+    height: 300px;
+    margin-left: 150px;
+}
+.up{
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;
+}
+.right{
+    margin-left: 250px;
+}
+.right button{
+    background-color: #f0f0f0;
+    font-family: "Comic Neue", cursive;
+    font-size: 15px;
+    width: 100px;
+    margin-left: 300px;
+    border: 1px solid black;
+}
+.right h3{
+    font-size: 40px;
+    width: 450px;
+    font-family: "Comic Neue", cursive;
+    font-weight: 500;
+    margin-top: 25px;
+    margin-bottom: 20px;
+}
+.right h4{
+    font-family: "Comic Neue", cursive;
+    font-size: 12px;
+    line-height: 15px;
+}
+.right .byus{
+margin-left: 180px;
+}
+.right .prc{
+    margin-left: 250px;
+}
+/* down hisse */
+.box{
+    width: 300px;
+    height: 380px;
+     border: 1px solid black;
+}
+.twobox{
+    width: 300px;
+    height: 380px;
+     border: 1px solid black;
+     background-color: black;
+     color: white;
+}
+.twobox button{
+    width: 280px;
+    height: 30px;
+    background-color: white;
+    color: black;
+    border: none;
+    margin-top: 45px;
+    margin-left: 10px;
+}
+
+.ninetynine{
+    display: flex;
+    flex-direction: row;
+    margin-left: 40px;
+    margin-top: 30px;
+}
+.ninetynine h1{
+    font-size: 50px;
+  font-weight: 600;
+  font-family: "Comic Neue", cursive;
+}
+.ninetynine p{
+    margin-top: 28px;
+    margin-left: 5px;
+}
+.twobox h2{
+    margin-left: 35px;
+    margin-top: 15px;
+    font-family: "Comic Neue", cursive;
+}
+.twobox ul{
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.thirdbox{
+    width: 300px;
+    height: 380px;
+     border: 1px solid white;
+     background-color: white;
+}
+.thirdbox button{
+    width: 280px;
+    height: 30px;
+    background-color: #151515;
+    color: white;
+    border: none;
+    margin-top: 25px;
+    margin-left: 10px;
+}
+.box button{
+    width: 280px;
+    height: 30px;
+    background-color: #151515;
+    color: white;
+    border: none;
+    margin-top: 100px;
+    margin-left: 10px;
+}
+.box h1{
+  font-size: 50px;
+  font-weight: 600;
+  font-family: "Comic Neue", cursive;
+}
+.box p{
+    font-weight: 600;
+    padding-top: 20px;
+}
+.number{
+    display: flex;
+    flex-direction: row;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.box h2{
+    margin-left: 30px;
+    margin-top: 10px;
+    font-size: 15px;
+    font-weight: 500;
+    font-family: "Comic Neue", cursive;
+}
+.box ul{
+    margin-top: 40px;
+    margin-left: 30px;
+    font-weight: 500;
+    font-family: "Comic Neue", cursive;
+    font-size: 15px;
+}
+
+.down{
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+    margin-left: 80px;
+    margin-top: 50px;
+}
+.hundrednine{
+    display: flex;
+    flex-direction: row;
+    margin-left: 40px;
+    margin-top: 30px;
+
+}
+.hundrednine h1{
+    font-size: 50px;
+    font-weight: 600;
+    font-family: "Comic Neue", cursive;
+}
+.hundrednine p{
+    margin-top: 28px;
+    margin-left: 5px;
+    font-weight: 500;
+}
+.thirdbox ul{
+    margin-top: 40px;
+    margin-left: 30px;
+    font-weight: 500;
+    font-family: "Comic Neue", cursive;
+    font-size: 15px;
+}
+.thirdbox h2{
+    margin-left: 30px;
+    margin-top: 25px;
+}
+/* goal start */
+.goal{
+    display: flex;
+    flex-direction: row;
+    margin-top: 100px;
+    margin-left: 80px;
+}
+.sag img{
+    width: 400px;
+    margin-left: 650px;
+    position: relative;
+    margin-top: 50px;
+    height: 450px;
+
+}
+.sol{
+    position: absolute;
+}
+.sol button{
+    width: 80px;
+    height: 25px;
+    font-size: 13px;
+    font-weight: 550;
+    font-family: "Comic Neue", cursive;
+    border: 1px solid black;
+    margin-bottom: 20px;
+}
+.sol h1{
+    font-family: "Comic Neue", cursive;
+    font-size: 40px; 
+    font-weight: 500;
+    margin-bottom: 15px;
+}
+.sol p{
+    width: 400px;
+    font-size: 15px;
+    font-weight: 500;
+    font-family: "Comic Neue", cursive;
+}
+.word{
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;
+}
+.word h3{
+    width: 350px;
+    margin-right: 130px;
+   margin-top: 8px;
+   font-weight: 600;
+   font-family: "Comic Neue", cursive;
+}
+.word p{
+    font-size: 30px;
+   
+}
+.sol .cont{
+    margin-top: 15px;
+    font-family: "Comic Neue", cursive;
+    font-size: 12px;
+    width: 350px;
+}
+hr{
+    width: 500px;
+   margin-top: 20px;
+   margin-left: 1px;
+} 
+.wordiki{
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+}
+.wordiki h3{
+    font-family: "Comic Neue", cursive;
+    margin-right: 125px;
+    font-size: 15px;
+    font-weight: 600;
+    width: 360px;
+}
+.wordiki p{
+    font-weight: 600;
+    font-size: 25px;
+}
+.worduc{
+    display: flex;
+    flex-direction: row;
+    margin-top: 15px;
+}
+.worduc h3{
+    font-size: 15px;
+    font-weight: 600;
+    font-family: "Comic Neue", cursive;
+    margin-right: 93px;
+    margin-top: 8px;
+}
+.worduc p{
+    font-weight: 600;
+    font-size: 25px;
+}
+
+.wordord{
+    display: flex;
+    flex-direction: row;
+    margin-top: 15px;
+}
+.wordord h4{
+    font-size: 15px;
+    font-weight: 600;
+    font-family: "Comic Neue", cursive;
+    margin-right: 140px;
+    margin-top: 8px;  
+}
+.wordord p{
+    font-weight: 600;
+    font-size: 25px;
+}
+.wordbes{
+    display: flex;
+    flex-direction: row;
+    margin-top: 15px;
+}
+.wordbes h5{
+    font-size: 15px;
+    font-weight: 600;
+    font-family: "Comic Neue", cursive;
+    margin-right: 160px;
+    margin-top: 8px;  
+}
+.wordbes p{
+    font-weight: 600;
+    font-size: 25px;
+}
+/* goal finish */
+/* the end start */
+
+.thend{
+    width: 1220px;
+    height: 400px;
+    background-color: #151515;
+    color: white;
+    font-family: "Comic Neue", cursive;
+    margin-top: 100px;
+}
+.yuxari{
+    display: flex;
+    flex-direction: row;
+    margin-left: 100px;
+    padding-top: 50px;
+    gap: 100px;
+}
+.want img{
+    width: 50px;
+    height: 50px;
+    margin-bottom: 25px;
+}
+.want h1{
+    font-size: 35px;
+    width: 300px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+.want .white{
+    width: 250px;
+    height: 30px;
+    text-align: left;
+    font-family: "Comic Neue", cursive;
+    font-size: 15px;
+    position: absolute;
+}
+.want .black{
+    width: 100px;
+    height: 30px;
+    text-align: left;
+    font-family: "Comic Neue", cursive;
+    font-size: 15px;
+    background-color: black;
+    color: white;
+    border: 1px solid white;
+    position: relative;
+    margin-left: 230px;
+    text-align: center;
+}
+.entercenter h4{
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+.entercenter p{
+    font-size: 13px;
+}
+.centeraboute h3{
+ line-height: 30px;
+}
+.leadson h3{
+    line-height: 30px;
+}
+
+.asagi{
+   margin-left: 700px;
+   margin-top: 50px;
+ } 
+/* the end finish */
+ 
